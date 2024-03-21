@@ -1,2 +1,2 @@
 5.2. Use las funciones group_by y summarise para extraer variables descriptivas, como la cantidad de asociados por departamento, grupo etario, entre otros. Además, cree un pequeño párrafo con los hallazgos que encuentre.
-Podimos ver que 
+Podimos ver quela media de edad de los tipos de negocios es muy parecida aun asi es evidente que la industria manufacturera tiene la menor media de edad, agricultira y comercio tiene el mayor promedio de edad ahora bien haciendo un analisis del grupo etario podemos concluir la media de edades de cada uno de los grupos de jovenes, adultos menores , adultos y aduktos mayores 
